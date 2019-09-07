@@ -10,7 +10,7 @@ Uma API Rest clone do Pastebin feita em NodeJS.
 * Por ultimo, entre no diretório e execute o comando `npm install` ou `yarn install` no terminal ou prompt de comando e espere até que todas as dependências sejam instaladas.
 
 ## Como usar
-Com todas as dependências instaladas, execute `npm run start` ou `yarn start` para iniciar o servidor.
+Com todas as dependências instaladas, execute `npm run start` ou `yarn start` para iniciar o servidor. Ele iniciará na porta 3333, no [localhost.](http://localhost:3333)
 
 ## Rotas
 * #### /cadastrar (post)
