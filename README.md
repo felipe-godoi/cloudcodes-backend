@@ -7,10 +7,10 @@ Uma API Rest clone do Pastebin feita em NodeJS.
 
 * Depois o MongoDB para a conexão com o banco de dados. [Baixe o server nesse link.](https://www.mongodb.com/download-center/community)
 
-* Por ultimo, entre no diretório e execute o comando `npm install` no terminal ou prompt de comando e espere até que todas as dependências sejam instaladas.
+* Por ultimo, entre no diretório e execute o comando `npm install` ou `yarn install` no terminal ou prompt de comando e espere até que todas as dependências sejam instaladas.
 
 ## Como usar
-Com todas as dependências instaladas, execute `npm run start` para iniciar o servidor.
+Com todas as dependências instaladas, execute `npm run start` ou `yarn start` para iniciar o servidor.
 
 ## Rotas
 * #### /cadastrar (post)
